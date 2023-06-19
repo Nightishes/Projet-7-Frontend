@@ -1,4 +1,4 @@
-const API_URL = 'https://projet-7-backend.vercel.app';
+const API_URL = 'https://projet-7-api.vercel.app';
 export const API_ROUTES = {
   SIGN_UP: `${API_URL}/api/auth/signup`,
   SIGN_IN: `${API_URL}/api/auth/login`,
